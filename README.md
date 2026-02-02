@@ -20,3 +20,10 @@ This is a repository that contains files of codes to the data analysis of curren
 - At the same time, the best winning % against Swiatek (World no 2.) is shown by both Anisimova and Andreeva with 67% and a total of 3 games played.
 
 ***Important note:*** the percentages might not reflect the actual current strengths of the players against Top 10 ranked players as there are factors such as when the games were played, in what stages of their careers the players were when the games were played, whether the players were in their prime, what court surface was, and which tournament games were played at, are not taken into account.
+
+## Interesting Observations to Note
+- In both charts, there seems to be a pattern in the winning percentages for players who perform neither very good nor very bad, in other words, mid performance players against Top 10 ranked players. It is always close to 50% for both ATP & WTA players.
+- For both heat maps, we can observe 1 case of players have zero games in total played against each other. In case of ATP players, it is Alcaraz against Bublik while for WTA players, it is Andreeva against Pegula.
+
+
+Prepared by Zahid as a fun project
